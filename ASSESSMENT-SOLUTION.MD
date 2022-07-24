@@ -2,7 +2,8 @@
 Not done
 
 ##Add reporter
-Not done
+Cypress dashboard:
+https://dashboard.cypress.io/projects/yxcvei
 
 ##Bugs
 Application failed to clear search results when pressing the search button with an empty search input:
