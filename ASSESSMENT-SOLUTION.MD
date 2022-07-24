@@ -5,6 +5,9 @@ Not done
 Cypress dashboard:
 https://dashboard.cypress.io/projects/yxcvei
 
+Invite link:
+https://dashboard.cypress.io/invitation/60ecee98-4499-479a-87ce-54f388b146e0
+
 ##Bugs
 Application failed to clear search results when pressing the search button with an empty search input:
 
